@@ -1,0 +1,25 @@
+/*body{
+  margin: 0px;
+  padding: 0px;
+  background: url("src/assets/cd_back1.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}*/
+.form-container{
+  border: 0px solid #ffffff;
+  padding: 50px 60px;
+  margin-top: 20vh;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+* {
+  color: dimgrey;
+  font-size: 20px;
+}
